@@ -9,5 +9,5 @@
 * My wallpaper and rofi image are included in the repo
 * Submit issues with questions or indeed any issues (Keep in mind this config should not be copy pasted)
 
-![Some terminals](screenshotOne.jpg)
-![Wallpaper and bar](screenshotTwo.jpg)
+![Some terminals](screenshotOne.png)
+![Wallpaper and bar](screenshotTwo.png)
