@@ -8,6 +8,8 @@
 * My group names are in Japanese but this is easily changed in config.py
 * My wallpaper and rofi image are included in the repo
 * Submit issues with questions or indeed any issues (Keep in mind this config should not be copy pasted)
+* Arco Linux is my distro of choice, I will however be switching to base Arch Linux soon.
 
+# Screenshots:
 ![Some terminals](screenshotOne.png)
 ![Wallpaper and bar](screenshotTwo.png)
