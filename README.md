@@ -63,23 +63,23 @@ These groups represent different categories of dotfiles managed by the script, e
 ## Some Other Points of Interest
 
 ### NeoVim Config
-- ** Path: ** dotfiles/editor/nvim/
+- **Path:** dotfiles/editor/nvim/
 
 This is my daily driver for editing text and code. The config is fully copy paste compatible and will basically get you an instantly usable development enviroment. (LSP, Latex, Treesitter, etc.)
 
 ### GNU Emacs Config
-- ** Path: ** dotfiles/editor/nvim/
+- **Path:** dotfiles/editor/nvim/
 
 This config was made when I started looking into nix like customization. Nowadays I prefer to use nvim but this is a solid config with a lsp server and all that setup. There are probably errors and stuff cause I havn't used it in long. 
 If you want to learn how to configure emacs I highly suggest [System Crafters](https://systemcrafters.net/emacs-from-scratch/), he does a great deep dive on a lot of linux stuff. (even dotfiles!)
 
 ### .zshrc
-- ** Path: ** dotfiles/zsh/.zshrc
+- **Path:** dotfiles/zsh/.zshrc
 
 Pretty simple/standard stuff, but I have collected some really cool aliases and stuff from various github pages. One of my favorite dotfiles repos are by [Neil Marha](https://github.com/AsianKoala). She has a really cool setup on bspwm but her config files are bullet proof and you can learn a lot from them. Almost all my aliases are from her :).
 
 ### rice
-- ** Path: ** dotfiles/rice
+- **Path:** dotfiles/rice
 
 So this directory basically holds all my ricing related stuff. 
 - qtile: my tiling window manager of choice, i have a simple setup but i think my config is pretty solid.
