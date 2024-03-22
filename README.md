@@ -6,7 +6,6 @@ Feel free to use the script on your own system I have included some comments to 
 
 That being said I hope these dotfiles help a bit. 
 
----
 
 ## Dotfiles Management Script
 
@@ -61,3 +60,29 @@ This Bash script is designed to manage your dotfiles efficiently, ensuring that 
 
 These groups represent different categories of dotfiles managed by the script, ensuring a well-organized and easily maintainable setup.
 
+## Some Other Points of Interest
+
+### NeoVim Config
+- *** Path: *** dotfiles/editor/nvim/
+
+This is my daily driver for editing text and code. The config is fully copy paste compatible and will basically get you an instantly usable development enviroment. (LSP, Latex, Treesitter, etc.)
+
+### GNU Emacs Config
+- *** Path: *** dotfiles/editor/nvim/
+
+This config was made when I started looking into nix like customization. Nowadays I prefer to use nvim but this is a solid config with a lsp server and all that setup. There are probably errors and stuff cause I havn't used it in long. 
+If you want to learn how to configure emacs I highly suggest [System Crafters](https://systemcrafters.net/emacs-from-scratch/), he does a great deep dive on a lot of linux stuff. (even dotfiles!)
+
+### .zshrc
+- *** Path: *** dotfiles/zsh/.zshrc
+
+Pretty simple/standard stuff, but I have collected some really cool aliases and stuff from various github pages. One of my favorite dotfiles repos are by [Neil Marha](https://github.com/AsianKoala). She has a really cool setup on bspwm but her config files are bullet proof and you can learn a lot from them. Almost all my aliases are from her :).
+
+### rice
+- *** Path: *** dotfiles/rice
+
+So this directory basically holds all my ricing related stuff. 
+- qtile: my tiling window manager of choice, i have a simple setup but i think my config is pretty solid.
+- scripts: yah some cool scripts in there that my qtile config relies on.
+- rofi: i have a custom rofi launcher that gets called by sxhkd, the picture is off charlotte sands. 
+- wal: when im not using my current colorscheme (gruvbox) I use a pywal colorscheme.
