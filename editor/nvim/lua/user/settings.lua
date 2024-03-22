@@ -1,0 +1,26 @@
+vim.opt.nu = true
+vim.opt.relativenumber = true
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.smartindent = true
+vim.opt.wrap = false
+vim.opt.swapfile = false
+vim.opt.backup = false
+vim.opt.undofile = true
+vim.opt.hlsearch = true
+vim.opt.termguicolors = true
+vim.opt.scrolloff = 10
+vim.opt.updatetime = 50
+vim.opt.cmdheight = 1
+vim.opt.conceallevel = 0
+vim.opt.pumheight = 10
+vim.opt.splitbelow = true
+vim.opt.splitright = true
+vim.opt.timeoutlen = 1000
+vim.opt.updatetime = 300
+vim.opt.cursorline = true
+vim.opt.numberwidth = 4
+vim.opt.signcolumn = "no"
+vim.opt.sidescrolloff = 8
+vim.opt.colorcolumn = "80"
+
