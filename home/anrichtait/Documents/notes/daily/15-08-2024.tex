@@ -1,0 +1,73 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}        % For mathematical formulas
+\usepackage{graphicx}       % For including images
+\usepackage{hyperref}       % For hyperlinks
+\usepackage{color}          % For text color
+\usepackage{xcolor}         % For more color options
+\usepackage{geometry}       % For adjusting page margins
+\usepackage{caption}        % For captions in figures and tables
+\usepackage{float}          % To control the placement of figures
+\usepackage{titlesec}       % For customizing section titles
+\usepackage{fancyhdr}       % For custom headers and footers
+\usepackage{tcolorbox}      % For colored text boxes
+\usepackage{bookmark}      % For colored text boxes
+
+% Page setup
+\geometry{margin=1in}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Anrich Tait}
+\fancyhead[C]{Notes}
+\fancyhead[R]{\today}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{13.6pt}
+
+% Define color blocks
+\newtcolorbox[auto counter, number within=section]{definition}[2][]{colback=purple!5!white,colframe=purple!75!black,
+  fonttitle=\bfseries, title=#2,#1}
+
+\newtcolorbox[auto counter, number within=section]{note}[2][]{colback=SkyBlue!5!white,colframe=SkyBlue!75!black,
+  fonttitle=\bfseries, title=#2,#1}
+
+\newtcolorbox[auto counter, number within=section]{concept}[2][]{colback=OliveGreen!5!white,colframe=OliveGreen!75!black,
+  fonttitle=\bfseries, title=#2,#1}
+
+% Title setup
+\titleformat{\section}[block]{\bfseries\Large}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[block]{\bfseries\large}{}{0em}{}
+
+% Custom command for the summary section
+\newcommand{\summary}[1]{%
+  \section*{Summary}
+  #1
+}
+
+\begin{document}
+
+% Document Intro
+\noindent
+\textbf{Scribed By: Anrich Tait} \\
+\textbf{Assignment: Daily Notes} \\
+\textbf{Lecture Date: \today}
+
+\section*{Outline}
+In this note, we will cover the following topics:
+\begin{itemize}
+    \item Bloomberg (Stock Markets Today)
+    \item Topic 2
+    \item Topic 3
+\end{itemize}
+
+\section{Bloomberg: Stock Markets Today}
+% Add content here
+
+\section{Heading Two}
+% Add content here
+
+\section{Sources}
+% Add your sources here
+
+\section{Review/Summary}
+% Add your review or summary here
+
+\end{document}
