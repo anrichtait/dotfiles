@@ -1,0 +1,725 @@
+Aug 24 12:01 : update: added mixes/Piano_Ghibli_Collection.opus
+Aug 24 12:09 : config: option 'buffer_time' on line 12 was not recognized
+Aug 24 12:31 : player: played "mixes/Piano_Ghibli_Collection.opus"
+Aug 24 12:34 : update: added mixes/Ghibli_Piano_Collection.opus
+Aug 24 12:48 : update: removing mixes/Piano_Ghibli_Collection.opus
+Aug 24 13:12 : update: added mixes/What's the Use？ [oySzhUzTAAM].opus
+Aug 24 13:12 : update: added mixes/Hurt Feelings [BMuD8uIWup4].opus
+Aug 24 13:12 : update: added mixes/Come Back to Earth [VzAjXdBJsEc].opus
+Aug 24 13:12 : update: added mixes/Perfecto [1VYFen4LDRw].opus
+Aug 24 13:12 : update: added mixes/Self Care [XVyEcQosijg].opus
+Aug 24 13:12 : update: added mixes/Wings [AROHeIxe3DE].opus
+Aug 24 13:13 : update: added mixes/Ladders [TATXudfgu3E].opus
+Aug 24 13:13 : update: added mixes/Small Worlds [pp3p8W2ohdU].opus
+Aug 24 13:13 : update: added mixes/Conversation Pt. 1 [0qAJgwkN76Y].opus
+Aug 24 13:13 : update: added mixes/Dunno [IMkLnXF2yz8].opus
+Aug 24 13:13 : update: added mixes/Jet Fuel [kxDT6phBsHE].opus
+Aug 24 13:13 : update: added mixes/2009 [5zivz7kVKNo].opus
+Aug 24 13:13 : update: added mixes/So It Goes [oLj7bpqN_i4].opus
+Aug 24 13:24 : update: removing mixes/2009 [5zivz7kVKNo].opus
+Aug 24 13:24 : update: removing mixes/Dunno [IMkLnXF2yz8].opus
+Aug 24 13:24 : update: removing mixes/Conversation Pt. 1 [0qAJgwkN76Y].opus
+Aug 24 13:24 : update: removing mixes/Come Back to Earth [VzAjXdBJsEc].opus
+Aug 24 13:24 : update: added mixes/mac miller/2009 [5zivz7kVKNo].opus
+Aug 24 13:24 : update: added mixes/mac miller/Come Back to Earth [VzAjXdBJsEc].opus
+Aug 24 13:24 : update: added mixes/mac miller/Conversation Pt. 1 [0qAJgwkN76Y].opus
+Aug 24 13:24 : update: added mixes/mac miller/Dunno [IMkLnXF2yz8].opus
+Aug 24 13:24 : update: removing mixes/Hurt Feelings [BMuD8uIWup4].opus
+Aug 24 13:24 : update: removing mixes/Small Worlds [pp3p8W2ohdU].opus
+Aug 24 13:24 : update: removing mixes/Self Care [XVyEcQosijg].opus
+Aug 24 13:24 : update: removing mixes/Perfecto [1VYFen4LDRw].opus
+Aug 24 13:24 : update: removing mixes/Ladders [TATXudfgu3E].opus
+Aug 24 13:24 : update: removing mixes/Jet Fuel [kxDT6phBsHE].opus
+Aug 24 13:24 : update: removing mixes/Wings [AROHeIxe3DE].opus
+Aug 24 13:24 : update: removing mixes/What's the Use？ [oySzhUzTAAM].opus
+Aug 24 13:24 : update: removing mixes/So It Goes [oLj7bpqN_i4].opus
+Aug 24 13:24 : update: added mixes/mac miller/Wings [AROHeIxe3DE].opus
+Aug 24 13:24 : update: added mixes/mac miller/What's the Use？ [oySzhUzTAAM].opus
+Aug 24 13:24 : update: added mixes/mac miller/Hurt Feelings [BMuD8uIWup4].opus
+Aug 24 13:24 : update: added mixes/mac miller/Small Worlds [pp3p8W2ohdU].opus
+Aug 24 13:24 : update: added mixes/mac miller/Perfecto [1VYFen4LDRw].opus
+Aug 24 13:24 : update: added mixes/mac miller/Self Care [XVyEcQosijg].opus
+Aug 24 13:24 : update: added mixes/mac miller/So It Goes [oLj7bpqN_i4].opus
+Aug 24 13:24 : update: added mixes/mac miller/Ladders [TATXudfgu3E].opus
+Aug 24 13:24 : update: added mixes/mac miller/Jet Fuel [kxDT6phBsHE].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Wings [AROHeIxe3DE].opus
+Aug 24 13:24 : update: removing mixes/mac miller/What's the Use？ [oySzhUzTAAM].opus
+Aug 24 13:24 : update: removing mixes/mac miller/So It Goes [oLj7bpqN_i4].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Small Worlds [pp3p8W2ohdU].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Self Care [XVyEcQosijg].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Perfecto [1VYFen4LDRw].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Ladders [TATXudfgu3E].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Jet Fuel [kxDT6phBsHE].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Hurt Feelings [BMuD8uIWup4].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Dunno [IMkLnXF2yz8].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Conversation Pt. 1 [0qAJgwkN76Y].opus
+Aug 24 13:24 : update: removing mixes/mac miller/Come Back to Earth [VzAjXdBJsEc].opus
+Aug 24 13:24 : update: removing mixes/mac miller/2009 [5zivz7kVKNo].opus
+Aug 24 13:30 : update: added mac miller/Conversation Pt. 1.opus
+Aug 24 13:30 : update: added mac miller/Come Back to Earth.opus
+Aug 24 13:30 : update: added mac miller/Ladders.opus
+Aug 24 13:30 : update: added mac miller/So It Goes.opus
+Aug 24 13:30 : update: added mac miller/Jet Fuel.opus
+Aug 24 13:30 : update: added mac miller/What's the Use?.opus
+Aug 24 13:30 : update: added mac miller/Small Worlds.opus
+Aug 24 13:30 : update: added mac miller/Hurt Feelings.opus
+Aug 24 13:30 : update: added mac miller/2009.opus
+Aug 24 13:30 : update: added mac miller/Dunno.opus
+Aug 24 13:30 : update: added mac miller/Perfecto.opus
+Aug 24 13:30 : update: added mac miller/Self Care.opus
+Aug 24 13:30 : update: added mac miller/Wings.opus
+Aug 24 13:36 : player: played "mac miller/2009.opus"
+Aug 24 13:36 : player: played "mac miller/Come Back to Earth.opus"
+Aug 24 13:36 : exception: Bad playlist name
+Aug 24 13:37 : player: played "mac miller/Hurt Feelings.opus"
+Aug 24 13:43 : player: played "mac miller/Jet Fuel.opus"
+Aug 24 13:49 : player: played "mac miller/Ladders.opus"
+Aug 24 13:53 : exception: Failed to decode /home/anrichtait/Music/mac miller/What's the Use?.opus; Failed to open '/home/anrichtait/Music/mac miller/What's the Use?.opus': No such file or directory
+Aug 24 13:53 : player: played "mac miller/Dunno.opus"
+Aug 24 13:53 : player: played "mac miller/What's the Use?.opus"
+Aug 24 13:53 : exception: Failed to decode /home/anrichtait/Music/mac miller/What's the Use?.opus; Failed to open '/home/anrichtait/Music/mac miller/What's the Use?.opus': No such file or directory
+Aug 24 13:53 : player: played "mac miller/What's the Use?.opus"
+Aug 24 13:53 : exception: Failed to decode /home/anrichtait/Music/mac miller/So It Goes.opus; Failed to open '/home/anrichtait/Music/mac miller/So It Goes.opus': No such file or directory
+Aug 24 13:53 : player: played "mac miller/So It Goes.opus"
+Aug 24 13:53 : exception: Failed to decode /home/anrichtait/Music/mac miller/Small Worlds.opus; Failed to open '/home/anrichtait/Music/mac miller/Small Worlds.opus': No such file or directory
+Aug 24 13:53 : player: played "mac miller/Small Worlds.opus"
+Aug 24 13:53 : exception: Failed to decode /home/anrichtait/Music/mac miller/Come Back to Earth.opus; Failed to open '/home/anrichtait/Music/mac miller/Come Back to Earth.opus': No such file or directory
+Aug 24 13:53 : player: played "mac miller/Come Back to Earth.opus"
+Aug 24 13:53 : exception: Failed to decode /home/anrichtait/Music/mac miller/Conversation Pt. 1.opus; Failed to open '/home/anrichtait/Music/mac miller/Conversation Pt. 1.opus': No such file or directory
+Aug 24 13:53 : player: played "mac miller/Conversation Pt. 1.opus"
+Aug 24 13:54 : update: added kendrick-lamar/Wesley's Theory [l9fN-8NjrvI].opus
+Aug 24 13:54 : update: added kendrick-lamar/For Free？ (Interlude) [qh4nXtTpTEE].opus
+Aug 24 13:54 : update: added kendrick-lamar/King Kunta [g0NVaX8DRN4].opus
+Aug 24 13:54 : update: added kendrick-lamar/Institutionalized [7L1POXocFIQ].opus
+Aug 24 13:54 : update: added kendrick-lamar/These Walls [AHNK4k3Cr24].opus
+Aug 24 13:54 : update: added kendrick-lamar/u [XGC4QpDIpJc].opus
+Aug 24 13:55 : update: added kendrick-lamar/Alright [67vr-3kpX3Q].opus
+Aug 24 13:55 : update: added kendrick-lamar/For Sale？ (Interlude) [RdCepOB4BV8].opus
+Aug 24 13:55 : update: added kendrick-lamar/Momma [q1AOP6NtGuc].opus
+Aug 24 13:55 : update: added kendrick-lamar/Hood Politics [iIsHg3BHpB0].opus
+Aug 24 13:55 : update: added kendrick-lamar/How Much A Dollar Cost [y8kEiL81_R4].opus
+Aug 24 13:55 : update: added kendrick-lamar/Complexion (A Zulu Love) [Wt4dUK4uce0].opus
+Aug 24 13:55 : update: added kendrick-lamar/The Blacker The Berry [VdPtVZDspIY].opus
+Aug 24 13:55 : update: added kendrick-lamar/You Ain't Gotta Lie (Momma Said) [78bSAKX_4vs].opus
+Aug 24 13:55 : update: added kendrick-lamar/i [tt2-GsPA9kk].opus
+Aug 24 13:56 : update: added kendrick-lamar/Mortal Man [axwpgn3GRMs].opus
+Aug 24 13:57 : exception: Failed to decode /home/anrichtait/Music/mac miller/Hurt Feelings.opus; Failed to open '/home/anrichtait/Music/mac miller/Hurt Feelings.opus': No such file or directory
+Aug 24 13:57 : player: played "mac miller/Dunno.opus"
+Aug 24 13:57 : player: played "mac miller/Hurt Feelings.opus"
+Aug 24 13:57 : exception: Failed to decode /home/anrichtait/Music/mac miller/Hurt Feelings.opus; Failed to open '/home/anrichtait/Music/mac miller/Hurt Feelings.opus': No such file or directory
+Aug 24 13:57 : exception: Failed to decode /home/anrichtait/Music/mac miller/Jet Fuel.opus; Failed to open '/home/anrichtait/Music/mac miller/Jet Fuel.opus': No such file or directory
+Aug 24 13:57 : player: played "mac miller/Hurt Feelings.opus"
+Aug 24 13:57 : exception: Failed to decode /home/anrichtait/Music/mac miller/Jet Fuel.opus; Failed to open '/home/anrichtait/Music/mac miller/Jet Fuel.opus': No such file or directory
+Aug 24 13:57 : player: played "mac miller/Jet Fuel.opus"
+Aug 24 13:58 : update: removing kendrick-lamar/Alright [67vr-3kpX3Q].opus
+Aug 24 13:58 : update: removing kendrick-lamar/Momma [q1AOP6NtGuc].opus
+Aug 24 13:58 : update: removing kendrick-lamar/King Kunta [g0NVaX8DRN4].opus
+Aug 24 13:58 : update: removing kendrick-lamar/Institutionalized [7L1POXocFIQ].opus
+Aug 24 13:58 : update: removing kendrick-lamar/i [tt2-GsPA9kk].opus
+Aug 24 13:58 : update: removing kendrick-lamar/How Much A Dollar Cost [y8kEiL81_R4].opus
+Aug 24 13:58 : update: removing kendrick-lamar/Hood Politics [iIsHg3BHpB0].opus
+Aug 24 13:58 : update: removing kendrick-lamar/For Sale？ (Interlude) [RdCepOB4BV8].opus
+Aug 24 13:58 : update: removing kendrick-lamar/For Free？ (Interlude) [qh4nXtTpTEE].opus
+Aug 24 13:58 : update: removing kendrick-lamar/Complexion (A Zulu Love) [Wt4dUK4uce0].opus
+Aug 24 13:58 : update: removing kendrick-lamar/You Ain't Gotta Lie (Momma Said) [78bSAKX_4vs].opus
+Aug 24 13:58 : update: removing kendrick-lamar/Wesley's Theory [l9fN-8NjrvI].opus
+Aug 24 13:58 : update: removing kendrick-lamar/u [XGC4QpDIpJc].opus
+Aug 24 13:58 : update: removing kendrick-lamar/These Walls [AHNK4k3Cr24].opus
+Aug 24 13:58 : update: removing kendrick-lamar/The Blacker The Berry [VdPtVZDspIY].opus
+Aug 24 13:58 : update: removing kendrick-lamar/Mortal Man [axwpgn3GRMs].opus
+Aug 24 13:58 : update: added kendrick-lamar/For_Free?(Interlude).opus
+Aug 24 13:58 : update: added kendrick-lamar/Momma.opus
+Aug 24 13:58 : update: added kendrick-lamar/i.opus
+Aug 24 13:58 : update: added kendrick-lamar/Mortal_Man.opus
+Aug 24 13:58 : update: added kendrick-lamar/You_Ain't_Gotta_Lie(Momma Said).opus
+Aug 24 13:58 : update: added kendrick-lamar/How_Much_A_Dollar_Cost.opus
+Aug 24 13:58 : update: added kendrick-lamar/King Kunta.opus
+Aug 24 13:58 : update: added kendrick-lamar/Complexion_(A_Zulu_Love).opus
+Aug 24 13:58 : update: added kendrick-lamar/These_Walls.opus
+Aug 24 13:58 : update: added kendrick-lamar/The_Blacker_The_Berry.opus
+Aug 24 13:58 : update: added kendrick-lamar/For_Sale?(Interlude).opus
+Aug 24 13:58 : update: added kendrick-lamar/Wesley'sTheory.opus
+Aug 24 13:58 : update: added kendrick-lamar/Hood_Politics.opus
+Aug 24 13:58 : update: added kendrick-lamar/Alright.opus
+Aug 24 13:58 : update: added kendrick-lamar/u.opus
+Aug 24 13:58 : update: added kendrick-lamar/Institutionalized.opus
+Aug 24 13:59 : update: removing kendrick-lamar/You_Ain't_Gotta_Lie(Momma Said).opus
+Aug 24 13:59 : update: removing kendrick-lamar/Wesley'sTheory.opus
+Aug 24 13:59 : update: added kendrick-lamar/You_Ain't_Gotta_Lie(Momma_Said).opus
+Aug 24 13:59 : update: added kendrick-lamar/Wesley's_Theory.opus
+Aug 24 13:59 : update: removing kendrick-lamar/King Kunta.opus
+Aug 24 13:59 : update: added kendrick-lamar/King_Kunta.opus
+Aug 24 14:00 : update: removing kendrick-lamar/You_Ain't_Gotta_Lie(Momma_Said).opus
+Aug 24 14:00 : update: removing kendrick-lamar/Wesley's_Theory.opus
+Aug 24 14:00 : update: removing kendrick-lamar/u.opus
+Aug 24 14:00 : update: removing kendrick-lamar/These_Walls.opus
+Aug 24 14:00 : update: removing kendrick-lamar/The_Blacker_The_Berry.opus
+Aug 24 14:00 : update: removing kendrick-lamar/Mortal_Man.opus
+Aug 24 14:00 : update: removing kendrick-lamar/Momma.opus
+Aug 24 14:00 : update: removing kendrick-lamar/King_Kunta.opus
+Aug 24 14:00 : update: removing kendrick-lamar/Institutionalized.opus
+Aug 24 14:00 : update: removing kendrick-lamar/i.opus
+Aug 24 14:00 : update: removing kendrick-lamar/How_Much_A_Dollar_Cost.opus
+Aug 24 14:00 : update: removing kendrick-lamar/Hood_Politics.opus
+Aug 24 14:00 : update: removing kendrick-lamar/For_Sale?(Interlude).opus
+Aug 24 14:00 : update: removing kendrick-lamar/For_Free?(Interlude).opus
+Aug 24 14:00 : update: removing kendrick-lamar/Complexion_(A_Zulu_Love).opus
+Aug 24 14:00 : update: removing kendrick-lamar/Alright.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/King_Kunta.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/For_Free?(Interlude).opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Momma.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/i.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Mortal_Man.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/How_Much_A_Dollar_Cost.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Complexion_(A_Zulu_Love).opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/You_Ain't_Gotta_Lie(Momma_Said).opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/These_Walls.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/The_Blacker_The_Berry.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/For_Sale?(Interlude).opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Hood_Politics.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Alright.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/u.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Wesley's_Theory.opus
+Aug 24 14:00 : update: added kendrick-lamar/to-pimp-a-butterfly/Institutionalized.opus
+Aug 24 14:02 : player: played "mac miller/Ladders.opus"
+Aug 24 14:02 : update: added kendrick-lamar/good-kid-maad-city/Sherane a.k.a Master Splinter’s Daughter [qhJLopggI98].opus
+Aug 24 14:02 : update: added kendrick-lamar/good-kid-maad-city/Bitch, Don’t Kill My Vibe [18HuC-jvi0U].opus
+Aug 24 14:02 : update: added kendrick-lamar/good-kid-maad-city/Backseat Freestyle [wAr9Ep6cXro].opus
+Aug 24 14:02 : update: added kendrick-lamar/good-kid-maad-city/The Art of Peer Pressure [WgRJ2BtWn8g].opus
+Aug 24 14:03 : update: added kendrick-lamar/good-kid-maad-city/Money Trees [rdxDBTuSFMk].opus
+Aug 24 14:03 : update: added kendrick-lamar/good-kid-maad-city/Poetic Justice [l_f5E2BRi9A].opus
+Aug 24 14:03 : update: added kendrick-lamar/good-kid-maad-city/good kid [raZ03s1rzd0].opus
+Aug 24 14:03 : update: added kendrick-lamar/good-kid-maad-city/m.A.A.d city [mprkqDNUQb0].opus
+Aug 24 14:03 : update: added kendrick-lamar/good-kid-maad-city/Swimming Pools (Drank) (Extended Version) [Y_6CPhbQlxo].opus
+Aug 24 14:03 : update: added kendrick-lamar/good-kid-maad-city/Sing About Me, I'm Dying Of Thirst [75wmW7xjyog].opus
+Aug 24 14:04 : update: added kendrick-lamar/good-kid-maad-city/Real [71SsVUmT1ys].opus
+Aug 24 14:04 : update: added kendrick-lamar/good-kid-maad-city/Compton [9PovU-C2osU].opus
+Aug 24 14:10 : update: added mac miller/faces/Mac Miller - Here We Go [noG6zaj1w_A].opus
+Aug 24 14:10 : update: added mac miller/faces/Mac Miller - Inside Outside [RNrcLs_oFzg].opus
+Aug 24 14:10 : update: added mac miller/faces/Mac Miller - Angel Dust [A5OGACEgOzU].opus
+Aug 24 14:10 : update: added mac miller/faces/Mac Miller - Friends (feat. ScHoolboy Q) [_CvVJkCWtkA].opus
+Aug 24 14:11 : update: removing mac miller/2009.opus
+Aug 24 14:11 : update: removing mac miller/Small Worlds.opus
+Aug 24 14:11 : update: removing mac miller/Self Care.opus
+Aug 24 14:11 : update: removing mac miller/Perfecto.opus
+Aug 24 14:11 : update: removing mac miller/Ladders.opus
+Aug 24 14:11 : update: removing mac miller/Jet Fuel.opus
+Aug 24 14:11 : update: removing mac miller/Hurt Feelings.opus
+Aug 24 14:11 : update: removing mac miller/Dunno.opus
+Aug 24 14:11 : update: removing mac miller/Conversation Pt. 1.opus
+Aug 24 14:11 : update: removing mac miller/Come Back to Earth.opus
+Aug 24 14:11 : update: removing mac miller/Wings.opus
+Aug 24 14:11 : update: removing mac miller/What's the Use?.opus
+Aug 24 14:11 : update: removing mac miller/So It Goes.opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - It Just Doesn't Matter [3-PoC1AT_lo].opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - Polo Jeans (feat. Earl Sweatshirt) [Qlk6kRJ2Jd4].opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - Therapy [yP9f7C2iHl0].opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - Malibu [r8peqyGkZuo].opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - What Do You Do (feat. Sir Michael Rocks) [6bUq4C5YxRY].opus
+Aug 24 14:11 : update: added mac miller/swimming/What's_the_Use?.opus
+Aug 24 14:11 : update: added mac miller/swimming/Conversation_Pt.1.opus
+Aug 24 14:11 : update: added mac miller/swimming/So_It_Goes.opus
+Aug 24 14:11 : update: added mac miller/swimming/Ladders.opus
+Aug 24 14:11 : update: added mac miller/swimming/Hurt_Feelings.opus
+Aug 24 14:11 : update: added mac miller/swimming/Small_Worlds.opus
+Aug 24 14:11 : update: added mac miller/swimming/Come_Back_to_Earth.opus
+Aug 24 14:11 : update: added mac miller/swimming/2009.opus
+Aug 24 14:11 : update: added mac miller/swimming/Jet_Fuel.opus
+Aug 24 14:11 : update: added mac miller/swimming/Dunno.opus
+Aug 24 14:11 : update: added mac miller/swimming/Perfecto.opus
+Aug 24 14:11 : update: added mac miller/swimming/Self_Care.opus
+Aug 24 14:11 : update: added mac miller/swimming/Wings.opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - Happy Birthday [O2PIVd6GL-Y].opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - Wedding [v4r_FUisrzU].opus
+Aug 24 14:11 : update: added mac miller/faces/Mac Miller - Funeral [TRPtxMAIR2w].opus
+Aug 24 14:12 : update: added mac miller/faces/Mac Miller - Diablo (Teaser) [KlQESTshOPw].opus
+Aug 24 14:12 : update: added mac miller/faces/Mac Miller - Ave Maria [FfZq9CEnI78].opus
+Aug 24 14:12 : update: added mac miller/faces/Mac Miller - 55 [ZME_w-Ysi4Y].opus
+Aug 24 14:12 : update: added mac miller/faces/Mac Miller - San Francisco [ssj_8V4s6Lg].opus
+Aug 24 14:12 : update: added mac miller/faces/Mac Miller - Colors and Shapes [K22_5LBuB9Y].opus
+Aug 24 14:12 : update: added mac miller/faces/Mac Miller - Insomniak (feat. Rick Ross) [hrmvL9f3ugM].opus
+Aug 24 14:12 : update: added mac miller/faces/Uber (feat. Mike Jones) [n5W8xlm01SQ].opus
+Aug 24 14:13 : update: added mac miller/faces/Mac Miller - Rain (feat. Vince Staples) [qywP8zmCoh8].opus
+Aug 24 14:13 : update: added mac miller/faces/Mac Miller - Thumbalina [IcZc1imQLHA].opus
+Aug 24 14:13 : update: added mac miller/faces/Mac Miller - Apparition [BHNElqiWo64].opus
+Aug 24 14:13 : update: added mac miller/faces/Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h) [Nw5i_AtWERk].opus
+Aug 24 14:13 : update: added mac miller/faces/Mac Miller - Grand Finale [IpiD9iMVvqc].opus
+Aug 24 14:13 : update: added mac miller/faces/Mac Miller - Yeah (bonus) [qPRKc5BDe8A].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Ave Maria [FfZq9CEnI78].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Apparition [BHNElqiWo64].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Angel Dust [A5OGACEgOzU].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - 55 [ZME_w-Ysi4Y].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - What Do You Do (feat. Sir Michael Rocks) [6bUq4C5YxRY].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Wedding [v4r_FUisrzU].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Thumbalina [IcZc1imQLHA].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Therapy [yP9f7C2iHl0].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - San Francisco [ssj_8V4s6Lg].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Rain (feat. Vince Staples) [qywP8zmCoh8].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Polo Jeans (feat. Earl Sweatshirt) [Qlk6kRJ2Jd4].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h) [Nw5i_AtWERk].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Malibu [r8peqyGkZuo].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - It Just Doesn't Matter [3-PoC1AT_lo].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Insomniak (feat. Rick Ross) [hrmvL9f3ugM].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Inside Outside [RNrcLs_oFzg].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Here We Go [noG6zaj1w_A].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Happy Birthday [O2PIVd6GL-Y].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Grand Finale [IpiD9iMVvqc].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Funeral [TRPtxMAIR2w].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Friends (feat. ScHoolboy Q) [_CvVJkCWtkA].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Diablo (Teaser) [KlQESTshOPw].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Colors and Shapes [K22_5LBuB9Y].opus
+Aug 24 14:16 : update: removing mac miller/faces/Uber (feat. Mike Jones) [n5W8xlm01SQ].opus
+Aug 24 14:16 : update: removing mac miller/faces/Mac Miller - Yeah (bonus) [qPRKc5BDe8A].opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Wedding.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Diablo (Teaser).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - 55.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Ave Maria.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - San Francisco.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Malibu.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Thumbalina.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - What Do You Do (feat. Sir Michael Rocks).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Polo Jeans (feat. Earl Sweatshirt).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Grand Finale.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Colors and Shapes.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - It Just Doesn't Matter.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Uber (feat. Mike Jones).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Inside Outside.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Happy Birthday.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Funeral.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Here We Go.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Apparition.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Insomniak (feat. Rick Ross).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Rain (feat. Vince Staples).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Therapy.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Friends (feat. ScHoolboy Q).opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Angel Dust.opus
+Aug 24 14:16 : update: added mac miller/faces/Mac Miller - Yeah (bonus).opus
+Aug 24 14:16 : update: added mac miller/circles/Mac Miller - Complicated [Q-NUaixkovQ].opus
+Aug 24 14:16 : update: added mac miller/circles/Mac Miller - Circles [V4BFGSZ_1ls].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - Blue World [_GC2wFTCAGY].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - Good News [aIHF7u9Wwiw].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - I Can See [rGxOUnlHpGI].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - Everybody [_-Ig0aeJ6jc].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - Woods [g8sX6wZHhD0].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - Hand Me Downs [fYEXdCCpfVQ].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - Hands [IHJWYamH5SA].opus
+Aug 24 14:17 : update: added mac miller/circles/Mac Miller - That's On Me [Eg7vEV5woSk].opus
+Aug 24 14:18 : update: added mac miller/circles/Mac Miller - Surf [blYo4WheVgA].opus
+Aug 24 14:18 : update: added mac miller/circles/Mac Miller - Once A Day [pFFPIST6Fuo].opus
+Aug 24 14:18 : update: added mac miller/circles/Mac Miller - Right [vx0i-iPOlQk].opus
+Aug 24 14:18 : update: added mac miller/circles/Mac Miller - Floating [PUPYXQmQ8m8].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Floating [PUPYXQmQ8m8].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Everybody [_-Ig0aeJ6jc].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Complicated [Q-NUaixkovQ].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Circles [V4BFGSZ_1ls].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Blue World [_GC2wFTCAGY].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Woods [g8sX6wZHhD0].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - That's On Me [Eg7vEV5woSk].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Surf [blYo4WheVgA].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Right [vx0i-iPOlQk].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Once A Day [pFFPIST6Fuo].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - I Can See [rGxOUnlHpGI].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Hands [IHJWYamH5SA].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Hand Me Downs [fYEXdCCpfVQ].opus
+Aug 24 14:19 : update: removing mac miller/circles/Mac Miller - Good News [aIHF7u9Wwiw].opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Hands.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Once A Day.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Circles.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Floating.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Complicated.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - I Can See.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Everybody.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Blue World.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Good News.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - That's On Me.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Woods.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Right.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Hand Me Downs.opus
+Aug 24 14:19 : update: added mac miller/circles/Mac Miller - Surf.opus
+Aug 24 14:21 : update: added mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign) [FFamEq1PilQ].opus
+Aug 24 14:22 : update: added mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande) [J_8xCOSekog].opus
+Aug 24 14:22 : update: added mac miller/divine-feminine/Mac Miller - Stay [5WU7oGiwiao].opus
+Aug 24 14:22 : update: added mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak) [LR3GQfryp9M].opus
+Aug 24 14:22 : update: added mac miller/divine-feminine/Mac Miller - Stay [q4lAf1rFFvg].opus
+Aug 24 14:22 : update: added mac miller/divine-feminine/Mac Miller - Skin [GE_iHakWos0].opus
+Aug 24 14:22 : update: added mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign) [0fcsGS1dEro].opus
+Aug 24 14:23 : update: added mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza) [P91dAAsvsPY].opus
+Aug 24 14:23 : update: added mac miller/divine-feminine/Mac Miller - Soulmate [3ADKdqcdNqs].opus
+Aug 24 14:23 : update: added mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green) [XL--KSNxfy8].opus
+Aug 24 14:23 : update: added mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar) [YbbaJIpkGMs].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande) [J_8xCOSekog].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar) [YbbaJIpkGMs].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak) [LR3GQfryp9M].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign) [FFamEq1PilQ].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign) [0fcsGS1dEro].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green) [XL--KSNxfy8].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Stay [q4lAf1rFFvg].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Stay [5WU7oGiwiao].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Soulmate [3ADKdqcdNqs].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Skin [GE_iHakWos0].opus
+Aug 24 14:24 : update: removing mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza) [P91dAAsvsPY].opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza).opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar).opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande).opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - Stay.opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - Soulmate.opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - Skin.opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign).opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green).opus
+Aug 24 14:24 : update: added mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak).opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Hands.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Once A Day.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Circles.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Floating.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Complicated.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - I Can See.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Everybody.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Blue World.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Good News.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - That's On Me.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Woods.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Right.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Hand Me Downs.opus
+Aug 24 14:27 : update: updating mac miller/circles/Mac Miller - Surf.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Hands.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Once A Day.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Circles.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Floating.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Complicated.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - I Can See.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Everybody.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Blue World.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Good News.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - That's On Me.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Woods.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Right.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Hand Me Downs.opus
+Aug 24 14:28 : update: updating mac miller/circles/Mac Miller - Surf.opus
+Aug 24 14:28 : player: played "mac miller/circles/Mac Miller - Blue World.opus"
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza).opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar).opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande).opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - Stay.opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - Soulmate.opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - Skin.opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign).opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green).opus
+Aug 24 14:31 : update: updating mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak).opus
+Aug 24 14:32 : player: played "mac miller/circles/Mac Miller - Blue World.opus"
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza).opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar).opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande).opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - Stay.opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - Soulmate.opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - Skin.opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign).opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green).opus
+Aug 24 14:34 : update: updating mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Wedding.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Diablo (Teaser).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - 55.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Ave Maria.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - San Francisco.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Malibu.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Thumbalina.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - What Do You Do (feat. Sir Michael Rocks).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Polo Jeans (feat. Earl Sweatshirt).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Grand Finale.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Colors and Shapes.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - It Just Doesn't Matter.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Uber (feat. Mike Jones).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Inside Outside.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Happy Birthday.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Funeral.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Here We Go.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Apparition.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Insomniak (feat. Rick Ross).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Rain (feat. Vince Staples).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Therapy.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Friends (feat. ScHoolboy Q).opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Angel Dust.opus
+Aug 24 14:34 : update: updating mac miller/faces/Mac Miller - Yeah (bonus).opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Backseat Freestyle [wAr9Ep6cXro].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/The Art of Peer Pressure [WgRJ2BtWn8g].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Real [71SsVUmT1ys].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Sherane a.k.a Master Splinter’s Daughter [qhJLopggI98].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Bitch, Don’t Kill My Vibe [18HuC-jvi0U].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Swimming Pools (Drank) (Extended Version) [Y_6CPhbQlxo].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Poetic Justice [l_f5E2BRi9A].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/good kid [raZ03s1rzd0].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Money Trees [rdxDBTuSFMk].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Sing About Me, I'm Dying Of Thirst [75wmW7xjyog].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/Compton [9PovU-C2osU].opus
+Aug 24 14:36 : update: updating kendrick-lamar/good-kid-maad-city/m.A.A.d city [mprkqDNUQb0].opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/King_Kunta.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/For_Free?(Interlude).opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Momma.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/i.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Mortal_Man.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/How_Much_A_Dollar_Cost.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Complexion_(A_Zulu_Love).opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/You_Ain't_Gotta_Lie(Momma_Said).opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/These_Walls.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/The_Blacker_The_Berry.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/For_Sale?(Interlude).opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Hood_Politics.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Alright.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/u.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Wesley's_Theory.opus
+Aug 24 14:37 : update: updating kendrick-lamar/to-pimp-a-butterfly/Institutionalized.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/King_Kunta.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/For_Free?(Interlude).opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Momma.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/i.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Mortal_Man.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/How_Much_A_Dollar_Cost.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Complexion_(A_Zulu_Love).opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/You_Ain't_Gotta_Lie(Momma_Said).opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/These_Walls.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/The_Blacker_The_Berry.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/For_Sale?(Interlude).opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Hood_Politics.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Alright.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/u.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Wesley's_Theory.opus
+Aug 24 14:38 : update: updating kendrick-lamar/to-pimp-a-butterfly/Institutionalized.opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha (Official Audio) [toEW7_-pvOY].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief (Official Audio) [tvNSXS4x9nc].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude) (Official Audio) [ll6S032PHNs].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers (Official Audio) [AxNXkI94tbY].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit [toBTPGfurLc].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95 [zI383uEwA6Q].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer (Official Audio) [Lx3MGrafykU].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige (Official Audio) [C_s9JJnqQqM].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah (Official Audio) [0kS-MtxPr9I].opus
+Aug 24 16:12 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out (Official Audio) [6nTcdw7bVdc].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone (Official Audio) [SdwEIPD1bEw].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude) (Official Audio) [ROUFkWceDRM].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown (Official Audio) [eL1L287YbkQ].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black (Official Audio) [00QQWJIFxDA].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew (Official Audio) [HTAQxUXq674].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries (Official Audio) [-vrhf1P9zwc].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead (Official Audio) [Vo89NfFYKKI].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror (Official Audio) [OqR71_BYS-c].opus
+Aug 24 16:13 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5 [uAPUkgeiFVY].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries (Official Audio) [-vrhf1P9zwc].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude) (Official Audio) [ll6S032PHNs].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers (Official Audio) [AxNXkI94tbY].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige (Official Audio) [C_s9JJnqQqM].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief (Official Audio) [tvNSXS4x9nc].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5 [uAPUkgeiFVY].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black (Official Audio) [00QQWJIFxDA].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew (Official Audio) [HTAQxUXq674].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude) (Official Audio) [ROUFkWceDRM].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit [toBTPGfurLc].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah (Official Audio) [0kS-MtxPr9I].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95 [zI383uEwA6Q].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone (Official Audio) [SdwEIPD1bEw].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead (Official Audio) [Vo89NfFYKKI].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror (Official Audio) [OqR71_BYS-c].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha (Official Audio) [toEW7_-pvOY].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer (Official Audio) [Lx3MGrafykU].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown (Official Audio) [eL1L287YbkQ].opus
+Aug 24 16:27 : update: removing kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out (Official Audio) [6nTcdw7bVdc].opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude).opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude).opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone.opus
+Aug 24 16:27 : update: added kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude).opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude).opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone.opus
+Aug 24 16:27 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude).opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude).opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone.opus
+Aug 24 16:29 : update: updating kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha.opus
+Aug 24 16:54 : player: played "mixes/Ghibli_Piano_Collection.opus"
+Aug 24 18:32 : config: option 'buffer_time' on line 12 was not recognized
+Aug 24 23:25 : player: played "mixes/Ghibli_Piano_Collection.opus"
+Aug 25 09:36 : config: option 'buffer_time' on line 12 was not recognized
+Aug 25 10:49 : player: played "mac miller/circles/Mac Miller - Blue World.opus"
+Aug 25 10:52 : player: played "mac miller/circles/Mac Miller - Circles.opus"
+Aug 25 10:54 : update: added live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus
+Aug 25 10:55 : player: played "mac miller/circles/Mac Miller - Complicated.opus"
+Aug 25 10:57 : update: added live/Justice Der - Covers [Full Album] [mPymRFeTJa4].opus
+Aug 25 11:00 : player: played "mac miller/circles/Mac Miller - Everybody.opus"
+Aug 25 11:01 : update: added live/80s, 90s, 00's but they are CHILLAF ｜ Lofi Mix ｜ CHILLAF [pXYfWxQ1t2w].opus
+Aug 25 11:04 : player: played "mac miller/circles/Mac Miller - Floating.opus"
+Aug 25 11:11 : player: played "mac miller/circles/Mac Miller - Good News.opus"
+Aug 25 11:18 : update: added l.dre/Shibuya (Ft. Frank Ocean) [Chanel Funk Remix] [9WFj6AMFwMg].opus
+Aug 25 11:19 : update: removing l.dre/Shibuya (Ft. Frank Ocean) [Chanel Funk Remix] [9WFj6AMFwMg].opus
+Aug 25 11:19 : update: added l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus
+Aug 25 11:23 : update: removing live/Justice Der - Covers [Full Album] [mPymRFeTJa4].opus
+Aug 25 11:23 : update: removing live/80s, 90s, 00's but they are CHILLAF ｜ Lofi Mix ｜ CHILLAF [pXYfWxQ1t2w].opus
+Aug 25 11:23 : update: added mixes/80s, 90s, 00's but they are CHILLAF ｜ Lofi Mix ｜ CHILLAF [pXYfWxQ1t2w].opus
+Aug 25 11:23 : update: added mixes/Justice Der - Covers [Full Album] [mPymRFeTJa4].opus
+Aug 25 11:25 : update: updating l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus
+Aug 25 11:26 : player: played "l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus"
+Aug 25 11:34 : player: played "l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus"
+Aug 25 12:11 : player: played "l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus"
+Aug 25 12:48 : config: option 'buffer_time' on line 12 was not recognized
+Aug 25 14:06 : player: played "l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus"
+Aug 25 16:08 : player: played "live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus"
+Aug 25 16:10 : config: option 'buffer_time' on line 12 was not recognized
+Aug 25 19:43 : player: played "live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus"
+Aug 25 19:58 : config: option 'buffer_time' on line 12 was not recognized
+Aug 25 21:48 : player: played "live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus"
+Aug 25 21:54 : config: option 'buffer_time' on line 12 was not recognized
+Aug 25 22:24 : player: played "live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus"
+Aug 26 15:23 : config: option 'buffer_time' on line 12 was not recognized
+Aug 26 15:27 : player: played "l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus"
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Close To You [ncqkC9Ob2ZI].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Ivy [AE005nZeF-A].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Self Control [BME88lS6aVY].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Pretty Sweet [HWDaIRe8_XI].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Skyline To [CtkUJb22oSQ].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Be Yourself [BU59wJ9qb6I].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Good Guy [ZnnwfgqdEGM].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Seigfried [RWgpBlz16-s].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Futura Free [VHGqsnsuA3c].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - White Ferrari [Dlz_XHeUUis].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Godspeed [P18g4rKns6Q].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Pink + White [uzS3WG6__G4].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Facebook Story [yWVoqpXfiPA].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Nikes [diIFhc_Kzng].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Solo (Reprise) [XXMHQ410P-c].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Nights [r4l9bFqgMaQ].opus
+Aug 26 15:29 : update: added frank-ocean/blond/Frank Ocean - Solo [X_SEwgDl02E].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Close To You [ncqkC9Ob2ZI].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Ivy [AE005nZeF-A].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Self Control [BME88lS6aVY].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Pretty Sweet [HWDaIRe8_XI].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Skyline To [CtkUJb22oSQ].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Be Yourself [BU59wJ9qb6I].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Good Guy [ZnnwfgqdEGM].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Seigfried [RWgpBlz16-s].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Futura Free [VHGqsnsuA3c].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - White Ferrari [Dlz_XHeUUis].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Godspeed [P18g4rKns6Q].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Pink + White [uzS3WG6__G4].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Facebook Story [yWVoqpXfiPA].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Nikes [diIFhc_Kzng].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Solo (Reprise) [XXMHQ410P-c].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Nights [r4l9bFqgMaQ].opus
+Aug 26 15:31 : update: updating frank-ocean/blond/Frank Ocean - Solo [X_SEwgDl02E].opus
+Aug 26 15:32 : update: added frank-ocean/Frank Ocean - Nights.opus
+Aug 26 15:32 : update: added frank-ocean/Frank Ocean - Chanel.opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Close To You [ncqkC9Ob2ZI].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Be Yourself [BU59wJ9qb6I].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - White Ferrari [Dlz_XHeUUis].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Solo [X_SEwgDl02E].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Solo (Reprise) [XXMHQ410P-c].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Skyline To [CtkUJb22oSQ].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Self Control [BME88lS6aVY].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Seigfried [RWgpBlz16-s].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Pretty Sweet [HWDaIRe8_XI].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Pink + White [uzS3WG6__G4].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Nikes [diIFhc_Kzng].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Nights [r4l9bFqgMaQ].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Ivy [AE005nZeF-A].opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Facebook Story.opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Good Guy [ZnnwfgqdEGM].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Godspeed [P18g4rKns6Q].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Futura Free [VHGqsnsuA3c].opus
+Aug 26 15:33 : update: removing frank-ocean/blond/Frank Ocean - Facebook Story [yWVoqpXfiPA].opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Be Yourself.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Solo.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Pretty Sweet.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Nikes.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Godspeed.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Futura Free.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Skyline To.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Seigfried.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Close To You.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Self Control.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Ivy.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Pink + White.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - White Ferrari.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Nights.opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Solo (Reprise).opus
+Aug 26 15:33 : update: added frank-ocean/blond/Frank Ocean - Good Guy.opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Backseat Freestyle [wAr9Ep6cXro].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/good kid [raZ03s1rzd0].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Compton [9PovU-C2osU].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Bitch, Don’t Kill My Vibe [18HuC-jvi0U].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/The Art of Peer Pressure [WgRJ2BtWn8g].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Swimming Pools (Drank) (Extended Version) [Y_6CPhbQlxo].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Sing About Me, I'm Dying Of Thirst [75wmW7xjyog].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Sherane a.k.a Master Splinter’s Daughter [qhJLopggI98].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Real [71SsVUmT1ys].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Poetic Justice [l_f5E2BRi9A].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/Money Trees [rdxDBTuSFMk].opus
+Aug 26 15:34 : update: removing kendrick-lamar/good-kid-maad-city/m.A.A.d city [mprkqDNUQb0].opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Compton.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Poetic Justice.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Real.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Sing About Me, I'm Dying Of Thirst.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/m.A.A.d city.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Swimming Pools (Drank) (Extended Version).opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Money Trees.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Sherane a.k.a Master Splinter’s Daughter.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/The Art of Peer Pressure.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/good kid.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Backseat Freestyle.opus
+Aug 26 15:34 : update: added kendrick-lamar/good-kid-maad-city/Bitch, Don’t Kill My Vibe.opus
+Aug 26 15:36 : update: removing mixes/Justice Der - Covers [Full Album] [mPymRFeTJa4].opus
+Aug 26 15:36 : update: removing mixes/Ghibli_Piano_Collection.opus
+Aug 26 15:36 : update: removing mixes/80s, 90s, 00's but they are CHILLAF ｜ Lofi Mix ｜ CHILLAF [pXYfWxQ1t2w].opus
+Aug 26 15:36 : update: added mixes/Ghibli Piano Collection.opus
+Aug 26 15:36 : update: added mixes/80s, 90s, 00's but they are CHILLAF.opus
+Aug 26 15:36 : update: added mixes/Justice Der - Covers.opus
+Aug 26 15:45 : player: played "frank-ocean/blond/Frank Ocean - Ivy [AE005nZeF-A].opus"
+Aug 26 15:50 : config: option 'buffer_time' on line 12 was not recognized
+Aug 26 15:55 : player: played "mac miller/circles/Mac Miller - Blue World.opus"
+Aug 26 21:42 : config: option 'buffer_time' on line 12 was not recognized
+Aug 26 22:48 : player: played "mac miller/circles/Mac Miller - Blue World.opus"
+Aug 27 07:54 : config: option 'buffer_time' on line 12 was not recognized
+Aug 27 08:02 : player: played "l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus"
+Aug 27 08:03 : config: option 'buffer_time' on line 12 was not recognized

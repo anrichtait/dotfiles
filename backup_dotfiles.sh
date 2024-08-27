@@ -11,12 +11,14 @@ declare -a files_to_copy=(
     "$HOME/.zshrc"
     "$HOME/.config/nvim/"
     "$HOME/.config/alacritty/alacritty.yml"
-    "$HOME/.config/bspwm/"
     "$HOME/.config/polybar/"
-    "$HOME/.config/sxhkd/"
-    "$HOME/.config/i3/"
     "$HOME/.config/wal/"
-    "$HOME/.config/kitty/"
+    "$HOME/.config/dunst/"
+    "$HOME/.config/mpd/"
+    "$HOME/.config/ncmpcpp/"
+    "$HOME/.config/picom/"
+    "$HOME/.config/qtile/"
+    "$HOME/.config/zathura/"
     "$HOME/Documents/notes/"
 )
 

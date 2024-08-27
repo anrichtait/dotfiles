@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79ef08b7d23848e3",
+            "id": "55cde0f5e35d6a16",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
@@ -16,18 +16,19 @@
             }
           },
           {
-            "id": "37d665653973657b",
+            "id": "672979ca0be846db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/日付2024年08月19日.md",
+                "file": "daily/日付2024年08月26日.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a870676bacf5824b",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/日付2024年08月19日.md"
+                "file": "daily/日付2024年08月26日.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/日付2024年08月19日.md",
+                "file": "daily/日付2024年08月26日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/日付2024年08月19日.md",
+                "file": "daily/日付2024年08月26日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +177,23 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "79ef08b7d23848e3",
+  "active": "672979ca0be846db",
   "lastOpenFiles": [
+    "personal/Wedding List.md",
+    "daily/日付2024年08月26日.md",
+    "daily/日付2024年08月25日.md",
+    "cs/python/Python Learn Notes.md",
+    "daily/日付2024年08月24日.md",
+    "daily/日付2024年08月23日.md",
+    "daily/日付2024年08月22日.md",
+    "daily/日付2024年09月02日.md",
+    "daily/日付2024年08月20日.md",
+    "personal/Shopping list.md",
+    "personal/Vegan Sauces.md",
+    "daily/日付2024年08月21日.md",
     "daily/日付2024年08月19日.md",
     "daily/日付2024年11月02日.md",
     "daily/日付2024年10月19日.md",
-    "daily/日付2024年08月20日.md",
     "daily/日付 2024年08月19日.md",
     "daily/日付2024年08月17日.md",
     "daily/日付2024年08月16日.md",
@@ -205,17 +215,6 @@
     "copilot-conversations/Chat-2024_08_19-10_53_32.md",
     "books/Reading List 2024.md",
     "books/Breaking Twitter - Ben Mezrich.md",
-    "books/book template.md",
-    "books/Deep Work - Cal Newport.md",
-    "books/Gulag Archipelago - Aleksandr Solzhenitsyn.md",
-    "books/The Antisocial Network - Ben Mezrich.md",
-    "trading/Key Words and Terms.md",
-    "trading/Volatility.md",
-    "programming/Functions without arguments.md",
-    "programming/Functions with arguments.md",
-    "programming/function definitions.md",
-    "programming/argument list correspondence.md",
-    "programming/actual argument.md",
     "programming/Untitled.canvas",
     "MQL5/Include/Controls/res/UpTransp.bmp",
     "MQL5/Include/Controls/res/Up.bmp",

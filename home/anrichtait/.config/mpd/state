@@ -1,0 +1,225 @@
+sw_volume: 88
+audio_device_state:1:My Pulse Output
+state: pause
+current: 209
+time: 199.824000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:mac miller/circles/Mac Miller - Blue World.opus
+1:kendrick-lamar/to-pimp-a-butterfly/Alright.opus
+2:kendrick-lamar/to-pimp-a-butterfly/Complexion_(A_Zulu_Love).opus
+3:kendrick-lamar/to-pimp-a-butterfly/For_Free?(Interlude).opus
+4:kendrick-lamar/to-pimp-a-butterfly/For_Sale?(Interlude).opus
+5:kendrick-lamar/to-pimp-a-butterfly/Hood_Politics.opus
+6:kendrick-lamar/to-pimp-a-butterfly/How_Much_A_Dollar_Cost.opus
+7:kendrick-lamar/to-pimp-a-butterfly/Institutionalized.opus
+8:kendrick-lamar/to-pimp-a-butterfly/King_Kunta.opus
+9:kendrick-lamar/to-pimp-a-butterfly/Momma.opus
+10:kendrick-lamar/to-pimp-a-butterfly/Mortal_Man.opus
+11:kendrick-lamar/to-pimp-a-butterfly/The_Blacker_The_Berry.opus
+12:kendrick-lamar/to-pimp-a-butterfly/These_Walls.opus
+13:kendrick-lamar/to-pimp-a-butterfly/Wesley's_Theory.opus
+14:kendrick-lamar/to-pimp-a-butterfly/You_Ain't_Gotta_Lie(Momma_Said).opus
+15:kendrick-lamar/to-pimp-a-butterfly/i.opus
+16:kendrick-lamar/to-pimp-a-butterfly/u.opus
+17:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries.opus
+18:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out.opus
+19:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown.opus
+20:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer.opus
+21:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha.opus
+22:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror.opus
+23:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead.opus
+24:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone.opus
+25:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95.opus
+26:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah.opus
+27:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude).opus
+28:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit.opus
+29:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew.opus
+30:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude).opus
+31:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black.opus
+32:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5.opus
+33:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief.opus
+34:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige.opus
+35:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers.opus
+36:kendrick-lamar/to-pimp-a-butterfly/Alright.opus
+37:kendrick-lamar/to-pimp-a-butterfly/Complexion_(A_Zulu_Love).opus
+38:kendrick-lamar/to-pimp-a-butterfly/For_Free?(Interlude).opus
+39:kendrick-lamar/to-pimp-a-butterfly/For_Sale?(Interlude).opus
+40:kendrick-lamar/to-pimp-a-butterfly/Hood_Politics.opus
+41:kendrick-lamar/to-pimp-a-butterfly/How_Much_A_Dollar_Cost.opus
+42:kendrick-lamar/to-pimp-a-butterfly/Institutionalized.opus
+43:kendrick-lamar/to-pimp-a-butterfly/King_Kunta.opus
+44:kendrick-lamar/to-pimp-a-butterfly/Momma.opus
+45:kendrick-lamar/to-pimp-a-butterfly/Mortal_Man.opus
+46:kendrick-lamar/to-pimp-a-butterfly/The_Blacker_The_Berry.opus
+47:kendrick-lamar/to-pimp-a-butterfly/These_Walls.opus
+48:kendrick-lamar/to-pimp-a-butterfly/Wesley's_Theory.opus
+49:kendrick-lamar/to-pimp-a-butterfly/You_Ain't_Gotta_Lie(Momma_Said).opus
+50:kendrick-lamar/to-pimp-a-butterfly/i.opus
+51:kendrick-lamar/to-pimp-a-butterfly/u.opus
+52:mac miller/circles/Mac Miller - Blue World.opus
+53:mac miller/circles/Mac Miller - Circles.opus
+54:mac miller/circles/Mac Miller - Complicated.opus
+55:mac miller/circles/Mac Miller - Everybody.opus
+56:mac miller/circles/Mac Miller - Floating.opus
+57:mac miller/circles/Mac Miller - Good News.opus
+58:mac miller/circles/Mac Miller - Hand Me Downs.opus
+59:mac miller/circles/Mac Miller - Hands.opus
+60:mac miller/circles/Mac Miller - I Can See.opus
+61:mac miller/circles/Mac Miller - Once A Day.opus
+62:mac miller/circles/Mac Miller - Right.opus
+63:mac miller/circles/Mac Miller - Surf.opus
+64:mac miller/circles/Mac Miller - That's On Me.opus
+65:mac miller/circles/Mac Miller - Woods.opus
+66:mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign).opus
+67:mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak).opus
+68:mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar).opus
+69:mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande).opus
+70:mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza).opus
+71:mac miller/divine-feminine/Mac Miller - Skin.opus
+72:mac miller/divine-feminine/Mac Miller - Soulmate.opus
+73:mac miller/divine-feminine/Mac Miller - Stay.opus
+74:mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green).opus
+75:mac miller/faces/Mac Miller - 55.opus
+76:mac miller/faces/Mac Miller - Angel Dust.opus
+77:mac miller/faces/Mac Miller - Apparition.opus
+78:mac miller/faces/Mac Miller - Ave Maria.opus
+79:mac miller/faces/Mac Miller - Colors and Shapes.opus
+80:mac miller/faces/Mac Miller - Diablo (Teaser).opus
+81:mac miller/faces/Mac Miller - Friends (feat. ScHoolboy Q).opus
+82:mac miller/faces/Mac Miller - Funeral.opus
+83:mac miller/faces/Mac Miller - Grand Finale.opus
+84:mac miller/faces/Mac Miller - Happy Birthday.opus
+85:mac miller/faces/Mac Miller - Here We Go.opus
+86:mac miller/faces/Mac Miller - Inside Outside.opus
+87:mac miller/faces/Mac Miller - Insomniak (feat. Rick Ross).opus
+88:mac miller/faces/Mac Miller - It Just Doesn't Matter.opus
+89:mac miller/faces/Mac Miller - Malibu.opus
+90:mac miller/faces/Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h).opus
+91:mac miller/faces/Mac Miller - Polo Jeans (feat. Earl Sweatshirt).opus
+92:mac miller/faces/Mac Miller - Rain (feat. Vince Staples).opus
+93:mac miller/faces/Mac Miller - San Francisco.opus
+94:mac miller/faces/Mac Miller - Therapy.opus
+95:mac miller/faces/Mac Miller - Thumbalina.opus
+96:mac miller/faces/Mac Miller - Uber (feat. Mike Jones).opus
+97:mac miller/faces/Mac Miller - Wedding.opus
+98:mac miller/faces/Mac Miller - What Do You Do (feat. Sir Michael Rocks).opus
+99:mac miller/faces/Mac Miller - Yeah (bonus).opus
+100:mac miller/swimming/2009.opus
+101:mac miller/swimming/Come_Back_to_Earth.opus
+102:mac miller/swimming/Conversation_Pt.1.opus
+103:mac miller/swimming/Dunno.opus
+104:mac miller/swimming/Hurt_Feelings.opus
+105:mac miller/swimming/Jet_Fuel.opus
+106:mac miller/swimming/Ladders.opus
+107:mac miller/swimming/Perfecto.opus
+108:mac miller/swimming/Self_Care.opus
+109:mac miller/swimming/Small_Worlds.opus
+110:mac miller/swimming/So_It_Goes.opus
+111:mac miller/swimming/What's_the_Use?.opus
+112:mac miller/swimming/Wings.opus
+113:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Auntie Diaries.opus
+114:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Count Me Out.opus
+115:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Crown.opus
+116:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Die Hard ft. Blxst & Amanda Reifer.opus
+117:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Father Time ft. Sampha.opus
+118:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mirror.opus
+119:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mother I Sober ft. Beth Gibbons of Portishead.opus
+120:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Mr. Morale ft. Tanna Leone.opus
+121:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - N95.opus
+122:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Purple Hearts ft. Summer Walker & Ghostface Killah.opus
+123:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar -  Rich (Interlude).opus
+124:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Rich Spirit.opus
+125:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior ft. Baby Keem & Sam Dew.opus
+126:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Savior (Interlude).opus
+127:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Silent Hill ft. Kodak Black.opus
+128:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - The Heart Part 5.opus
+129:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - United In Grief.opus
+130:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - We Cry Together ft. Taylour Paige.opus
+131:kendrick-lamar/mr-morale-and-the-big-steppers/Kendrick Lamar - Worldwide Steppers.opus
+132:kendrick-lamar/to-pimp-a-butterfly/Alright.opus
+133:kendrick-lamar/to-pimp-a-butterfly/Complexion_(A_Zulu_Love).opus
+134:kendrick-lamar/to-pimp-a-butterfly/For_Free?(Interlude).opus
+135:kendrick-lamar/to-pimp-a-butterfly/For_Sale?(Interlude).opus
+136:kendrick-lamar/to-pimp-a-butterfly/Hood_Politics.opus
+137:kendrick-lamar/to-pimp-a-butterfly/How_Much_A_Dollar_Cost.opus
+138:kendrick-lamar/to-pimp-a-butterfly/Institutionalized.opus
+139:kendrick-lamar/to-pimp-a-butterfly/King_Kunta.opus
+140:kendrick-lamar/to-pimp-a-butterfly/Momma.opus
+141:kendrick-lamar/to-pimp-a-butterfly/Mortal_Man.opus
+142:kendrick-lamar/to-pimp-a-butterfly/The_Blacker_The_Berry.opus
+143:kendrick-lamar/to-pimp-a-butterfly/These_Walls.opus
+144:kendrick-lamar/to-pimp-a-butterfly/Wesley's_Theory.opus
+145:kendrick-lamar/to-pimp-a-butterfly/You_Ain't_Gotta_Lie(Momma_Said).opus
+146:kendrick-lamar/to-pimp-a-butterfly/i.opus
+147:kendrick-lamar/to-pimp-a-butterfly/u.opus
+148:mac miller/circles/Mac Miller - Blue World.opus
+149:mac miller/circles/Mac Miller - Circles.opus
+150:mac miller/circles/Mac Miller - Complicated.opus
+151:mac miller/circles/Mac Miller - Everybody.opus
+152:mac miller/circles/Mac Miller - Floating.opus
+153:mac miller/circles/Mac Miller - Good News.opus
+154:mac miller/circles/Mac Miller - Hand Me Downs.opus
+155:mac miller/circles/Mac Miller - Hands.opus
+156:mac miller/circles/Mac Miller - I Can See.opus
+157:mac miller/circles/Mac Miller - Once A Day.opus
+158:mac miller/circles/Mac Miller - Right.opus
+159:mac miller/circles/Mac Miller - Surf.opus
+160:mac miller/circles/Mac Miller - That's On Me.opus
+161:mac miller/circles/Mac Miller - Woods.opus
+162:mac miller/divine-feminine/Mac Miller - Cinderella (feat. Ty Dolla $ign).opus
+163:mac miller/divine-feminine/Mac Miller - Dang! (feat. Anderson .Paak).opus
+164:mac miller/divine-feminine/Mac Miller - God Is Fair, Sexy Nasty (feat. Kendrick Lamar).opus
+165:mac miller/divine-feminine/Mac Miller - My Favorite Part (feat. Ariana Grande).opus
+166:mac miller/divine-feminine/Mac Miller - Planet God Damn (feat. Njomza).opus
+167:mac miller/divine-feminine/Mac Miller - Skin.opus
+168:mac miller/divine-feminine/Mac Miller - Soulmate.opus
+169:mac miller/divine-feminine/Mac Miller - Stay.opus
+170:mac miller/divine-feminine/Mac Miller - We (feat. CeeLo Green).opus
+171:mac miller/faces/Mac Miller - 55.opus
+172:mac miller/faces/Mac Miller - Angel Dust.opus
+173:mac miller/faces/Mac Miller - Apparition.opus
+174:mac miller/faces/Mac Miller - Ave Maria.opus
+175:mac miller/faces/Mac Miller - Colors and Shapes.opus
+176:mac miller/faces/Mac Miller - Diablo (Teaser).opus
+177:mac miller/faces/Mac Miller - Friends (feat. ScHoolboy Q).opus
+178:mac miller/faces/Mac Miller - Funeral.opus
+179:mac miller/faces/Mac Miller - Grand Finale.opus
+180:mac miller/faces/Mac Miller - Happy Birthday.opus
+181:mac miller/faces/Mac Miller - Here We Go.opus
+182:mac miller/faces/Mac Miller - Inside Outside.opus
+183:mac miller/faces/Mac Miller - Insomniak (feat. Rick Ross).opus
+184:mac miller/faces/Mac Miller - It Just Doesn't Matter.opus
+185:mac miller/faces/Mac Miller - Malibu.opus
+186:mac miller/faces/Mac Miller - New Faces v2 (feat. Earl Sweatshirt and Da$h).opus
+187:mac miller/faces/Mac Miller - Polo Jeans (feat. Earl Sweatshirt).opus
+188:mac miller/faces/Mac Miller - Rain (feat. Vince Staples).opus
+189:mac miller/faces/Mac Miller - San Francisco.opus
+190:mac miller/faces/Mac Miller - Therapy.opus
+191:mac miller/faces/Mac Miller - Thumbalina.opus
+192:mac miller/faces/Mac Miller - Uber (feat. Mike Jones).opus
+193:mac miller/faces/Mac Miller - Wedding.opus
+194:mac miller/faces/Mac Miller - What Do You Do (feat. Sir Michael Rocks).opus
+195:mac miller/faces/Mac Miller - Yeah (bonus).opus
+196:mac miller/swimming/2009.opus
+197:mac miller/swimming/Come_Back_to_Earth.opus
+198:mac miller/swimming/Conversation_Pt.1.opus
+199:mac miller/swimming/Dunno.opus
+200:mac miller/swimming/Hurt_Feelings.opus
+201:mac miller/swimming/Jet_Fuel.opus
+202:mac miller/swimming/Ladders.opus
+203:mac miller/swimming/Perfecto.opus
+204:mac miller/swimming/Self_Care.opus
+205:mac miller/swimming/Small_Worlds.opus
+206:mac miller/swimming/So_It_Goes.opus
+207:mac miller/swimming/What's_the_Use?.opus
+208:mac miller/swimming/Wings.opus
+209:l.dre/Shibuya(Ft.Frank_Ocean)[Chanel Funk Remix].opus
+210:live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus
+playlist_end

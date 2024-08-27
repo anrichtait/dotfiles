@@ -1,6 +1,6 @@
 export PATH=$HOME/bin/.local/bin:/usr/local/bin:$HOME/bin:$HOME/scripts:$PATH
 export ZSH="$HOME/.oh-my-zsh"
-export EDITOR=/usr/bin/emacs-29.3
+export EDITOR=/usr/bin/nvim
 export XDG_CONFIG_HOME="$HOME/.config"
 export DEVKITARM=/opt/devkitpro/devkitARM
 export DOOMDIR=$HOME/.doom.d
@@ -10,11 +10,12 @@ zstyle ':omz:update' mode disabled  # disable automatic updates
 
 plugins=(
 	git
-	zsh-autosuggestions
 	colorize
 	history-substring-search
 	sudo
 	git
+	zsh-autosuggestions
+	zsh-syntax-highlighting
 	)
 
 source $ZSH/oh-my-zsh.sh
@@ -28,12 +29,8 @@ alias grep='grep -i'
 alias ytaudio="yt-dlp -f 'ba' -x --no-playlist"
 alias ytplaylist="yt-dlp -f 'ba' -x"
 alias dotfiles="bash ~/.config/i3/scripts/dotfiles.sh"
-alias decomp="cd ~/Projects/decomps/"
-alias teste="mgba-qt /home/anrichtait/Projects/decomps/pokeemerald-expansion-noot-base/pokeemerald.gba"
-alias extscr="xrandr --output eDP-1 --auto --same-as HDMI-2"
-alias porymap="nohup /home/anrichtait/Projects/decomps/tools/porymap/porymap > /dev/null 2>&1 &"
-alias se='nohup mono ~/Applications/SE/SubtitleEdit.exe >/dev/null 2>&1 &'
-alias make='make -j' #remember to include the number returned by nproc
+alias ipod='ncmpcpp'
+
 
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
@@ -46,4 +43,6 @@ cat ~/.cache/wal/sequences
 
 # To add support for TTYs this line can be optionally added.
 source ~/.cache/wal/colors-tty.sh
+
 export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"

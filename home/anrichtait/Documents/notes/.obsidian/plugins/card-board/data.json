@@ -48,6 +48,13 @@
               "limit": 10,
               "name": "Completed"
             }
+          },
+          {
+            "tag": "undated",
+            "data": {
+              "collapsed": false,
+              "name": "Undated"
+            }
           }
         ],
         "filters": [],

@@ -22,5 +22,6 @@ vim.opt.cursorline = true
 vim.opt.numberwidth = 4
 vim.opt.signcolumn = "no"
 vim.opt.sidescrolloff = 8
-vim.opt.colorcolumn = "80"
+--vim.opt.colorcolumn = "80"
 vim.opt.clipboard = 'unnamedplus'
+

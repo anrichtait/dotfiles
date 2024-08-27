@@ -62,44 +62,44 @@
 ## Court Preparation Checklist
 
 ### 1. **Documentation of Non-Compliance**
-- [ ] Copies of all court orders related to visitation, therapy, and financial obligations.
-- [ ] Proof of non-compliance (e.g., missed therapy payments, missed visits).
-- [ ] Records of any court hearings and rulings regarding the father’s obligations.
+-  Copies of all court orders related to visitation, therapy, and financial obligations.
+-  Proof of non-compliance (e.g., missed therapy payments, missed visits).
+-  Records of any court hearings and rulings regarding the father’s obligations.
 
 ### 2. **Evidence of Harmful Behavior**
-- [ ] Incident reports (e.g., police reports, restraining orders).
-- [ ] Documentation or evidence of substance abuse issues (e.g., failed drug tests, rehab attempts).
-- [ ] Copies of communications from the father showing harassment or threats (e.g., text messages, emails, voicemails). Get call history on old phone.
+- Incident reports (e.g., police reports, restraining orders).
+- Documentation or evidence of substance abuse issues (e.g., failed drug tests, rehab attempts).
+- Copies of communications from the father showing harassment or threats (e.g., text messages, emails, voicemails). Get call history on old phone.
 
 ### 3. **Psychosocial and Professional Reports**
-- [ ] Psychosocial reports detailing the impact of the father’s behavior on the children.
-- [ ] Reports from therapists or counselors describing the emotional and psychological impact on the children.
+-  Psychosocial reports detailing the impact of the father’s behavior on the children.
+- Reports from therapists or counselors describing the emotional and psychological impact on the children.
 
 ### 4. **Evidence of Emotional and Psychological Impact on Children**
-- [ ] Statements or affidavits from mental health professionals.
-- [ ] Children’s statements or preferences regarding contact with their father (if appropriate).
+- Statements or affidavits from mental health professionals.
+-  Children’s statements or preferences regarding contact with their father (if appropriate).
 
 ### 5. **Financial Documentation**
-- [ ] Proof of the father’s failure to provide financial support (e.g., unpaid child support, therapy costs).
+- Proof of the father’s failure to provide financial support (e.g., unpaid child support, therapy costs).
 
 ### 6. **Legal and Procedural Documents**
-- [ ] Previous court filings related to custody, visitation, and support.
-- [ ] Draft or outline of the motion to terminate parental rights, including the legal grounds and supporting evidence.
+-  Previous court filings related to custody, visitation, and support.
+- Draft or outline of the motion to terminate parental rights, including the legal grounds and supporting evidence.
 
 ### 7. **General Case Information**
-- [ ] Summary of the family’s history with the father (including previous court cases).
-- [ ] Detailed timeline of events and incidents involving the father.
+-  Summary of the family’s history with the father (including previous court cases).
+- Detailed timeline of events and incidents involving the father.
 
 ### 8. **Witness Statements**
-- [ ] Affidavits or statements from witnesses who have observed the father’s behavior or its impact on the children (e.g., teachers, family members).
+- Affidavits or statements from witnesses who have observed the father’s behavior or its impact on the children (e.g., teachers, family members).
 
 ### 9. **Legal and Procedural Preparation**
-- [ ] Consult with a family lawyer to review and refine your case.
-- [ ] Prepare questions and documents for the court hearing.
-- [ ] Ensure all evidence is organized and easily accessible for presentation in court.
+- Consult with a family lawyer to review and refine your case.
+-  Prepare questions and documents for the court hearing.
+- Ensure all evidence is organized and easily accessible for presentation in court.
 
 ### 10. **Additional Considerations**
-- [ ] Obtain any necessary legal aid or support if needed.
-- [ ] Update records regularly with new incidents or developments.
-- [ ] Arrange for emotional support for the children during the legal process.
+- Obtain any necessary legal aid or support if needed.
+-  Update records regularly with new incidents or developments.
+-  Arrange for emotional support for the children during the legal process.
 

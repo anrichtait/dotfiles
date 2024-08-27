@@ -71,3 +71,4 @@ end, opts)
 keymap("n", "<leader>tt", "<Cmd>ToggleTerm<CR>", opts)  -- Toggle terminal window
 keymap("n", "<leader>tf", "<Cmd>ToggleTerm direction=float<CR>", opts)-- Open a new terminal in a floating window
 
+-- bulk rename
