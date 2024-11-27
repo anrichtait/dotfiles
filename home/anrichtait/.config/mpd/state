@@ -1,0 +1,20 @@
+sw_volume: 96
+audio_device_state:1:My Pulse Output
+state: play
+current: 1
+time: 120.035000
+random: 0
+repeat: 1
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:mixes/mix 1.opus
+1:mixes/Solomun Boiler Room DJ Set [bk6Xst6euQk].opus
+2:mixes/Hozho - Chill Mix (Melodic Minimal Techno) [rWIPn3x31aM].opus
+3:frank-ocean/Frank Ocean - Chanel.opus
+4:frank-ocean/Frank Ocean - Nights.opus
+5:live/The War On Drugs： Tiny Desk (Home) Concert [SKJ5JyuP7WY].opus
+playlist_end
