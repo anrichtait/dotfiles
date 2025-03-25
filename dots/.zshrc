@@ -1,20 +1,20 @@
 # === PATH Configurations ===
-export PATH="$HOME/.cargo/bin:$HOME/.local/bin:/home/anrichtait/.dotnet/tools:$HOME/bin:$HOME/scripts:/usr/local/bin:$HOME/.local/share/gem/ruby/3.3.0/bin:$PATH"
+export PATH="$HOME/.local/bin:/home/anrichtait/.dotnet/tools:$HOME/bin:$HOME/scripts:/usr/local/bin:$HOME/.local/share/gem/ruby/3.3.0/bin:$PATH"
 export XDG_CONFIG_HOME="$HOME/.config"
+export EDITOR=/usr/bin/emacs
+export DEVKITPRO=/opt/devkitpro
 export DEVKITARM=/opt/devkitpro/devkitARM
-export EDITOR=/usr/bin/nvim
-export TLDR_HEADER='magenta bold underline'
-export TLDR_QUOTE='italic'
-export TLDR_DESCRIPTION='green'
-export TLDR_CODE='red'
-export TLDR_PARAM='blue'
+export DEVKITPPC=/opt/devkitpro/devkitPPC
 
 eval "$(starship init zsh)"
 
 # === Aliases ===
+alias cat='bat'
 alias ls='exa --icons'
-alias la='exa -la --icons'
+alias la='exa -a --icons'
 alias ld='exa -D --icons'
+alias cp='cp -i'				# confirm before overwriting
+alias df='df -h'				# human readable sizes
 alias py='python3'
 alias xprop='xprop | grep WM_CLASS'
 alias grep='grep -i'
@@ -22,26 +22,30 @@ alias ytaudio="yt-dlp -f 'ba' -x --no-playlist"
 alias ytplaylist="yt-dlp -f 'ba' -x"
 alias dotfiles="bash ~/.config/i3/scripts/dotfiles.sh"
 alias ipod='ncmpcpp'
-alias pls='pass ls'
-alias pshow='pass show'
-alias pgen='pass generate'
 alias libgen='libgen -e "pdf,epub" search'
 alias serve='bundle exec jekyll serve'
 alias scratch='nvim ~/scratch.md'
 alias term='(alacritty --working-directory "$(pwd)" &) & disown'
-alias cdr='cd ~/Projects/rustlings/exercises/'
 alias zshrc='nvim ~/.zshrc'
+alias spacein='dust'
+alias hx='helix'
 
-HISTFILE=~/.zsh_history          
+# === Misc Setting ===
+
+HISTFILE=~/.zsh_history
 HISTSIZE=10000
-SAVEHIST=10000          
-setopt APPEND_HISTORY
-setopt INC_APPEND_HISTORY
-setopt SHARE_HISTORY
+SAVEHIST=10000
+HISTDUP=erase
+setopt append_history
+setopt inc_append_history
+setopt share_history
+setopt hist_ignore_space
+setopt hist_ignore_all_dups
+setopt hist_save_no_dups
+setopt hist_ignore_dups
+setopt hist_find_no_dups
 
-# Show command duration for commands that take longer than 2 seconds
-RPROMPT='%F{yellow}[%T] %F{cyan}[%D{%H:%M:%S}] %F{white}%F{green}$? %F{white}%*'
-
+WORDCHARS=${WORDCHARS//\/[&.;]}                                 # Don't consider certain characters part of the word
 
 if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then
     print -P "%F{33} %F{220}Installing %F{33}ZDHARMA-CONTINUUM%F{220} Initiative Plugin Manager (%F{33}zdharma-continuum/zinit%F{220})…%f"
@@ -75,7 +79,8 @@ autoload -Uz +X compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 zstyle ':completion:*' menu select
 
-# Add environment variable AX_ROOT for axmol
-export AX_ROOT="/home/anrichtait/Applications/axmol"
-# Add axmol cmdline tool to PATH
-export PATH=$AX_ROOT/tools/cmdline:$PATH
+export WASI_SDK_PATH=~/wasi-sdk
+export PATH=$WASI_SDK_PATH/bin:$PATH
+
+export PATH="$HOME/.emacs.d/bin:$PATH"
+export PATH="$HOME/.config/emacs/bin:$PATH"

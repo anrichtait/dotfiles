@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: css image
+# key: i
+# --
+<img src="assets/img/" style="max-width: 100%; height: auto; display: block;">

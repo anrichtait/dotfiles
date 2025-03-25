@@ -1,8 +1,13 @@
-# dotfiles
-These are my qtile dotfiles.
+![My Setup Screenshot](path/to/your/image.png)
 
-## backup_dotfiles.sh
-Copies all the neccessary files to the dotfiles directory.
+## Install
 
-## install_packages.sh
-Installs all the neccessary packages needed for the system.
+These configuration files are provided as a reference. Copying them directly into your home directory might have side effects, so review them before applying.
+
+## Backup Script
+
+Manage your dotfiles by running the backup script. This script copies the files and directories declared within it to a dedicated dotfiles backup folder for storage and uploading.
+
+```bash
+./backup_script.sh
+```

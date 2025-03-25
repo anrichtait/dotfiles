@@ -1,5 +1,0 @@
-#!/bin/bash
-music_dir="$HOME/Music"
-cover=$(mpc --format %file% current)
-cover="${cover%.*}"
-ffmpeg -i "$music_dir/$cover" -vf scale=240:-1 ~/.ncmpcpp/album_art.png
