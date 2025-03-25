@@ -1,4 +1,5 @@
-![My Setup Screenshot](assets/scrn.png)
+![My Setup Screenshots](assets/scrn1.png)
+![My Setup Screenshots](assets/scrn.png)
 
 ## Install
 These configuration files are provided as a reference. Copying them directly into your home directory might have side effects, so review them before applying.
