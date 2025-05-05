@@ -13,19 +13,6 @@ Manage your dotfiles by running the backup script. This script copies the files 
 
 
 # Doom Emacs Setup 
-## Org mode reference
-
-# Simplified Org Mode User Manual
-
-## Overview
-
-This is a user manual for your simplified Org Mode setup in Doom Emacs. The system is designed to help you manage:
-
-- Regular tasks (TODO)
-- Research notes (RESEARCH) - particularly for Security+ exam
-- Reading list (READ-Later) - for articles and websites
-- Tag-based organization (#idea, #review, #security+)
-
 ## Quick Reference
 
 ### Todo States
@@ -263,5 +250,3 @@ Periodically:
 3. Review tagged items with `SPC o i`, `SPC o r`, `SPC o s`
 
 ---
-
-*This manual is a reference for your customized Org Mode workflow. Adapt these practices as needed to fit your evolving needs.*
