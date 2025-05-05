@@ -29,6 +29,7 @@ alias term='(alacritty --working-directory "$(pwd)" &) & disown'
 alias zshrc='nvim ~/.zshrc'
 alias spacein='dust'
 alias hx='helix'
+alias mountex='sudo mount -t ntfs-3g /dev/sda1 /mnt/external'
 
 # === Misc Setting ===
 
