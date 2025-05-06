@@ -1,12 +1,11 @@
 ;;; $DOOMDIR/config.el -*- lexical-binding: t; -*-
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; settings
+;; general settings
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(setq user-full-name "Anrich Tait"
-      user-mail-address "anrichjtait@gmail.com")
-
+(setq user-full-name "Anrich Tait")
+(setq user-mail-address "anrichjtait@gmail.com")
 (setq doom-font (font-spec :family "Iosevka SS04" :size 14 :weight 'semi-light))
 (setq-default indent-tabs-mode nil)
 (setq tab-width 4)
@@ -23,14 +22,20 @@
 (setq-default prescient-history-length 1000)
 ;;(setq projectile-project-search-path '("~/Documents/" "~/Projects/"))
 
-
 ;; vterm
 (after! vterm (setq vterm-shell "/sbin/zsh"))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; general keybinds
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(defun open-notes-directory ()
+  "Open notes directory in dired."
+  (interactive)
+  (dired "~/Projects/cloudnotes/cs/"))
 
+(map! :leader
+      :desc "Open notes directory"
+      "n d" #'open-notes-directory)
 (map! :leader
       :prefix "r"
       :desc "Run async shell command"
@@ -56,7 +61,7 @@
       "l" #'avy-goto-line)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; find n replace
+;; find n replace (on steroids!)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (use-package! visual-regexp-steroids
@@ -213,12 +218,11 @@ The line will begin with ‘// ’ followed by enough ‘=’ characters to fill
   (setq company-idle-delay 0.1)) ;; Default is 0.2 or higher, lower is faster
 
 
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; ORG - Simplified Configuration
+;; orgmode related
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;; Basic directory setup
+;; where our org notes are stored, i use one main directory to easily back these notes up to github.
 (setq org-directory "~/Projects/cloudnotes/cs/")
 (setq org-agenda-files (directory-files-recursively "~/Projects/cloudnotes/cs/" "\\.org$"))
 (defun custom/gtd-file (filename)
@@ -226,7 +230,6 @@ The line will begin with ‘// ’ followed by enough ‘=’ characters to fill
     (concat gtd-directory filename)))
 (setq org-hide-emphasis-markers 't)
 
-;; Visual customizations (unchanged)
 (custom-set-faces
  '(org-document-title ((t (:height 1.6 :weight bold))))
  '(org-level-1 ((t (:inherit outline-1 :height 1.3 :spacing 2))))
@@ -244,24 +247,28 @@ The line will begin with ‘// ’ followed by enough ‘=’ characters to fill
         :n "M-k" #'org-metaup
         ))
 
-;; Bullets and ellipsis (unchanged)
 (require 'org-bullets)
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
 (setq org-bullets-bullet-list '("⁖"))
 (setq org-ellipsis " ▾ ")
 
-;; Logging
 (after! org
   (setq org-log-into-drawer "LOGBOOK"))
 
 ;; -------------------------
-;; SIMPLIFIED TODO STATES & TAGS
+;; TODO STATES & TAGS
 ;; -------------------------
 (after! org
   (setq org-todo-keywords
         '((sequence "TODO(t!)" "NEXT(n!)" "WAIT(w@!)" "|" "DONE(d!)")
           (sequence "RESEARCH(r!)" "|" "DONE(d!)")
           (sequence "READ-Later(R!)" "|" "DONE(d!)")))
+(after! org
+  (setq org-todo-keywords
+        '((sequence "TODO(t!)" "NEXT(n!)" "WAIT(w@!)" "|" "DONE(d!)")
+          (sequence "RESEARCH(r!)" "|" "DONE(d!)")
+          (sequence "READ-Later(R!)" "|" "DONE(d!)")
+          (sequence "STUDY(s!)" "REVIEW(v!)" "|" "REVIEWED(V!)"))))
 
   ;; Tags configuration for easier filtering
   (setq org-tag-alist
