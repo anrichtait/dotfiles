@@ -263,12 +263,6 @@ The line will begin with ‘// ’ followed by enough ‘=’ characters to fill
         '((sequence "TODO(t!)" "NEXT(n!)" "WAIT(w@!)" "|" "DONE(d!)")
           (sequence "RESEARCH(r!)" "|" "DONE(d!)")
           (sequence "READ-Later(R!)" "|" "DONE(d!)")))
-(after! org
-  (setq org-todo-keywords
-        '((sequence "TODO(t!)" "NEXT(n!)" "WAIT(w@!)" "|" "DONE(d!)")
-          (sequence "RESEARCH(r!)" "|" "DONE(d!)")
-          (sequence "READ-Later(R!)" "|" "DONE(d!)")
-          (sequence "STUDY(s!)" "REVIEW(v!)" "|" "REVIEWED(V!)"))))
 
   ;; Tags configuration for easier filtering
   (setq org-tag-alist
