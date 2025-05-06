@@ -1,22 +1,27 @@
 ![My Setup Screenshots](assets/scrn1.png)
 ![My Setup Screenshots](assets/scrn.png)
+![My Agenda Screenshots](assets/org1.png)
+![My Agenda Screenshots](assets/org2.png)
 
-## Install
-These configuration files are provided as a reference. Copying them directly into your home directory might have side effects, so review them before applying.
+## Tourists Guide
+> Disclaimer: These configuration files are provided as a reference. Copying them directly into your home directory might have side effects, so review them before applying. That being said I hope they help in some way.
 
-## Backup Script
-Manage your dotfiles by running the backup script. This script copies the files and directories declared within it to a dedicated dotfiles backup folder for storage and uploading.
+Below are listed some of the gems you can find in my configs:
+- `.zshrc` -> aliases
+- `.doom.d/config.el` -> my daily drive doom emacs config, a quick reference is provided at the bottom of this readme on the orgmode system
+- `.config/nvim/lua/user/plugins.lua` -> the main file for my neovim config, you can figure out specific plugin configuration from other files in the same dir
+- Various tiling window manager configs: Qtile, bspwm + polybar, i3
 
+### Backup Script
+For those interested in uploading their own dots take a look at my backup script and tweak it to match your device folders
 ```bash
 ./backup_script.sh
 ```
 
 
-# Doom Emacs Setup 
-## Quick Reference
+# Doom Emacs Reference
 
-### Todo States
-
+## Todo States
 | State | Key | Description |
 |-------|-----|-------------|
 | TODO | t | Regular task |
@@ -27,7 +32,6 @@ Manage your dotfiles by running the backup script. This script copies the files 
 | READ-Later | R | Articles/websites to read |
 
 ### Tags
-
 | Tag | Key | Purpose |
 |-----|-----|---------|
 | #idea | i | Capture insights or new ideas |
@@ -37,7 +41,6 @@ Manage your dotfiles by running the backup script. This script copies the files 
 | #@life | l | Personal life related |
 
 ### Important Keybindings
-
 | Keybinding | Description |
 |------------|-------------|
 | SPC o A | Open main agenda view |
@@ -53,18 +56,14 @@ Manage your dotfiles by running the backup script. This script copies the files 
 | M-k | Move heading up |
 
 ## Common Workflows
-
 ### 1. Daily Planning Workflow
-
 1. Start your day with `SPC o A` to view your agenda
 2. Check scheduled items for today
 3. Identify important tasks and mark them as NEXT (use `t n` in agenda view)
 4. When completing tasks, mark them as DONE (use `t d` in agenda view)
 
 ### 2. Security+ Study Workflow
-
 #### Capturing Research Notes
-
 1. While studying, use `C-c c r` to capture a research note
 2. Enter your note content
 3. Add appropriate tags:
@@ -85,7 +84,6 @@ Key points:
 ```
 
 #### Capturing Ideas During Study
-
 1. When you have an insight, use `C-c c r` to capture a research note
 2. Add the #idea tag (C-c C-q i)
 
@@ -100,7 +98,6 @@ DHCP snooping's binding table can be leveraged by DAI (Dynamic ARP Inspection) t
 ```
 
 ### 3. Reading List Management
-
 #### Capturing Articles to Read Later
 
 1. When you find an interesting article, use `C-c c R`
